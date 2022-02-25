@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>url_shortener</title>
+    <style>
+        .align-center{
+            text-align:center;
+            font-family:cursive;
+        }
+        .center {
+            margin: auto;
+            width: 50%;
+            border: 5px solid #ffffff;
+            padding: 2px;
+            box-shadow:1px 1px 5px;
+        }
+        .center-block {
+            display: block;
+            margin-right: auto;
+            margin-left: auto;
+        }
+        input {
+            font-size: 20px;
+            text-align: center;
+        }
+        button {
+            font-size: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <h1 class="align-center"><strong>Url-shortener</strong></h1>
+    <div class="center">
+        <h2 class="align-center">Your shortened URL</h2>
+        <input class="center-block" type="text" size="40pt" value="{{shorturl}}"><br>
+        <h4 class="align-center">your long url is <a href="{{longurl}}">{{longurl}}</a></h4>
+        <p class="align-center">Url-shortener is a free tool to shorten a URL or reduce a link<br>
+            Use our URL Shortener to create a shortened link making it easy to remember</p>
+            
+    </div>
+    
+</body>
+</html>
