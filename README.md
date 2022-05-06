@@ -26,7 +26,7 @@ Image uploading is one of the main features of any modern web-applications. It a
 Convert plain TEXT to HTML paragraphs with this free text to html tool. Good for plain text emails and similar text sources.
 
 <p align="center">
-  <img width="600" height="300" src="Django-practice-project/screenshots/TexttoHtml.png">
+  <img width="600" height="300" src="https://user-images.githubusercontent.com/84006503/167167032-bedcb923-1a7f-4f6d-bccf-e0fbac3fe9c7.png">
 </p>
 
 To use this HTML text generator, do the following:
