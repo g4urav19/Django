@@ -20,3 +20,18 @@ Image uploading is one of the main features of any modern web-applications. It a
 <p align="center">
   <img width="600" height="300" src="https://user-images.githubusercontent.com/84006503/155678024-b7e87122-b289-496c-aecc-52742662cae1.png">
 </p>
+
+# Text-to-HTML
+
+Convert plain TEXT to HTML paragraphs with this free text to html tool. Good for plain text emails and similar text sources.
+
+<p align="center">
+  <img width="600" height="300" src="https://user-images.githubusercontent.com/84006503/155678024-b7e87122-b289-496c-aecc-52742662cae1.png">
+</p>
+
+To use this HTML text generator, do the following:
+
+1.Enter your text.<br>
+2.Select the values you need from the toolbar. The HTML code is automatically updated in the bottom pane when you make a change.<br>
+3.Click Preview to see what it looks like (optional).<br>
+4.Copy & paste the code to your web page or blog.<br>
